@@ -1,0 +1,8 @@
+streamlit==1.32.2
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+PyPDF2
+python-docx
+python-dotenv
